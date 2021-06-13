@@ -31,7 +31,7 @@
  - COM3420 Software Hut (SPRING 2020~21)
    - Confidential
  - COM3502 Speech Processing (AUTUMN 2020~21)
-   - [Speech Processing](https://github.com/xuan525/COM3502-Speech-Processing-Assignment)
+   - [Voice Changer](https://github.com/xuan525/COM3502-Voice-Changer-Assignment)
  - COM3504 The Intelligent Web (SPRING 2020~21)
    - [Realtime Chatting and Drawing](https://github.com/xuan525/COM3504-Realtime-Chatting-Drawing-Assignment)
  - COM3524 Bioinspired Computing (AUTUMN 2020~21)
