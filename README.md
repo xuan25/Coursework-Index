@@ -38,6 +38,6 @@
  - COM3524 Bioinspired Computing (AUTUMN 2020~21)
    - [Forest Fire CA](https://github.com/xuan525/COM3524-Forest-Fire-CA-Assignment)
  - COM3610 Dissertation Project (ACADEMIC YEAR 2020~21)
-   - A Hybrid Approach for Speech Synthesis (Confidential)
+   - A Hybrid Approach for Speech Synthesis (Confidential; Will be avaliable at [here](http://www.dcs.shef.ac.uk/intranet/teaching/public/projects/dissertations.html))
  - MGT388 Finance and Law for Engineers (AUTUMN 2020~21)
 
