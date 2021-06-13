@@ -1,6 +1,7 @@
 # Coursework Index (UG)
 
  - COM1001 Introduction to Software Engineering (ACADEMIC YEAR 2018~19)
+   - Twaxi (Confidential)
  - COM1002 Foundations of Computer Science (ACADEMIC YEAR 2018~19)
  - COM1003 Java Programming (ACADEMIC YEAR 2018~19)
    - [Wine Browser](https://github.com/xuan525/COM1003-Wine-Browser-Assignment)
@@ -29,7 +30,7 @@
    - [Supervised Learning](https://github.com/xuan525/COM3240-Supervised-Learning-Assignment)
    - [Reinforcement Learning](https://github.com/xuan525/COM3240-Reinforcement-Learning-Assignment)
  - COM3420 Software Hut (SPRING 2020~21)
-   - Confidential
+   - University Vendor Management System (Confidential)
  - COM3502 Speech Processing (AUTUMN 2020~21)
    - [Voice Changer](https://github.com/xuan525/COM3502-Voice-Changer-Assignment)
  - COM3504 The Intelligent Web (SPRING 2020~21)
@@ -37,6 +38,6 @@
  - COM3524 Bioinspired Computing (AUTUMN 2020~21)
    - [Forest Fire CA](https://github.com/xuan525/COM3524-Forest-Fire-CA-Assignment)
  - COM3610 Dissertation Project (ACADEMIC YEAR 2020~21)
-   - Confidential
+   - A Hybrid Approach for Speech Synthesis (Confidential)
  - MGT388 Finance and Law for Engineers (AUTUMN 2020~21)
 
