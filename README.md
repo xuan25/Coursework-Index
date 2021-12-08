@@ -41,3 +41,22 @@
    - A Hybrid Approach for Speech Synthesis (Confidential; Will be avaliable at [here](http://www.dcs.shef.ac.uk/intranet/teaching/public/projects/dissertations.html))
  - MGT388 Finance and Law for Engineers (AUTUMN 2020~21)
 
+# Coursework Index (PG)
+
+- COM6012 Scalable Machine Learning (SPRING 2021~22)
+  - Pending
+- COM6103 Team Software Project (SPRING 2021~22)
+  - Pending
+- COM6503 3D Computer Graphics (AUTUMN 2021~22)
+  - 3D Rendering of a Museum with OpenGL (Ongoing)
+- COM6510 Software development for mobile devices (AUTUMN 2021~22)
+  - A Journey Recording App for Android Mobiles (Ongoing)
+- COM6511 Speech Technology (SPRING 2021~22)
+  - Pending
+- COM6513 Natural Language Processing (SPRING 2021~22)
+  - Pending
+- COM6516 Object Oriented Programming and Software Design (AUTUMN 2021~22)
+  - Sport Club Membership Managment System (Ongoing)
+- COM6655 Professional Issues (AUTUMN 2021~22)
+- COM6906 Dissertation Project (SUMSEM 2021~22)
+  - Pending
